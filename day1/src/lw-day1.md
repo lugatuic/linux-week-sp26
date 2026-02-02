@@ -1,0 +1,226 @@
+---
+title: "Day One: What is Linux?"
+subtitle: Linux Week SP26
+author: Michael Hanif Khan
+date: February 2nd, 2026
+---
+
+# Introduction
+
+## On "Learning Linux"
+
+You can use the GUI. You can download things from the internet. You can effectively use Linux like Windows.
+
+HOWEVER, "Learning Linux" makes your life easier.
+
+- Manually search through tons of folders and files => a little CLI-fu
+- Updating & installing programs is slow and tedious => sudo apt install x
+- "Oh god why is my machine broken" => Seeing the exact error message
+
+The best way to learn? Ask questions & practice skills to solve everyday problems.
+
+- How to find files from terminal? Practice it!
+- Something broke. How do I fix it? Investigate it!
+- I want to change something on my system. Research it!
+
+It is 2026, not 2006. Use the internet!
+
+## What is Linux Week?
+
+::: columns
+:::: column
+
+**Demystifying the Command Line**
+
+Basic command line usage & filesystem traversal via scavenger hunt!
+\newline
+
+**Intro to Scripting**
+
+How to solve problems, use novel CLI tools, all to solve challenges!
+\newline
+
+**Using the Package Manager**
+
+How to use package manager & find right tool to solve a problem. Collective problem solving!
+::::
+:::: column
+![](assets/LinuxWeekPosterSP26.png)
+::::
+:::
+
+TL;DR: Learn by doing!
+
+# The Technical Answer
+
+##
+
+\Huge\textbf{The Technical Answer}
+\normalsize
+
+*What is Linux?*
+
+## The Kernel
+
+Any answer given short of a lecture will be riddled with asterisks.
+
+Your computer can run multiple programs at once\* because of the Kernel. It is the core of any Operating System. It manages and shares system resources between programs by:
+
+- Managing Memory
+  - Programs are greedy and assume they have ALL of memory.
+- Scheduling processes
+  - Only so much CPU, many things that need to run.
+- Managing Filesystem I/O
+  - Hardware: Kernel is your buddy. Tells you what to do.
+  - Software: Kernel is your buddy. Tell it what you want to write.
+  - User: Kernel is your buddy. Symlinks, rearrange files, etc.
+
+## Linux Distros
+
+::: columns
+:::: column
+\Large\textbf{Package Managers}
+\normalsize
+
+- Release Cycle
+  - Debian: Super Stable
+    - Months of testing \& QA, smooth as butter. Stability > Novelty
+  - Arch: Bleeding Edge
+    - No releases, just package most recent version of software. Novelty > Stability.
+- Package Repositories
+  - Availability
+  - Arch AUR
+- NixOS 
+
+::::
+:::: column
+\Large\textbf{Ancestry}
+\normalsize
+
+Most popular OSes are typically based off of:
+
+- **Debian**
+- **Ubuntu**
+- **Arch**
+
+There are [*quite a few.*](https://commons.wikimedia.org/wiki/File:Linux_Distribution_Timeline.svg#/media/File:Linux_Distribution_Timeline.svg)
+::::
+:::
+
+# The Philosophical Answer
+
+##
+
+\Huge\textbf{The Philosophical Answer}
+\normalsize
+
+*What is Linux?*
+
+## Free, as in Libre
+
+::: columns
+:::: column
+**Windows**
+
+- Effectively monetarily free, still requires you trick activation server
+- Random updates at worst possible moment
+- Always forcing new Microsoft bloat down your throat:
+  - Copilot
+  - OneDrive EVERYTHING
+  - Start menu now searches internet!?
+- Something broke? Pray its just Windows being Windows
+
+MacOS is locked to Apple Hardware.
+::::
+:::: column
+**Linux**
+
+- GPLv2: Copyleft
+  - TL;DR: Go crazy as long as you GPLv2 your code & open source it
+- Something broke?
+  - Everything that your system has done since boot has been logged.
+  - 99% chance that your problem has an Arch Wiki article.
+- "Windows supports so much more!"
+  - Community patches, Containerization, Proton
+  - Mainly CAD & Adobe Suite Software stuck on Windows
+::::
+:::
+
+## Open Source
+
+Linux promotes an Open Source ecosystem!
+
+\vspace{0.2in}
+
+::: columns
+:::: column
+Open Source:
+
+- Free, as in Free!
+  - Share Open Source software all you want!
+- Secure
+  - Volunteers find bugs, vulnerabilities, review security
+- Developers are Users
+  - Focus is on making something actually usable, not extorting users for profit
+::::
+:::: column
+You probably already use some Open Source projects:
+
+- OBS
+- Blender
+- Programming Languages
+- Git 
+- Godot
+
+\vspace{0.1in}
+::: columns
+:::: column
+![](assets/godotlogo.png)
+::::
+:::: column
+![](assets/gitlogo.png)
+::::
+:::
+
+::::
+:::
+
+# The Practical Answer
+
+##
+
+\Huge\textbf{The Practical Answer}
+\normalsize
+
+*What is Linux?*
+
+## Not Windows.
+
+::: columns
+:::: column
+Things will take time to get used to.
+
+- Command Line
+- Package Manager
+- Setting some things up by hand
+
+However, a lot of things will be better!
+
+- Super efficient
+- FOSS Ecosystem
+- Infinitely more customizability
+::::
+:::: column
+![](assets/fastfetch.png)
+::::
+:::
+
+## Where to start?
+
+Ubuntu & Mint are common for good reason. I'd recommend Mint over Ubuntu.
+
+Many people try to "learn Linux". What they generally mean is they want to learn:
+
+- How to get comfy with the command line?
+- How do I fix problems?
+- What does a free operating system even mean for me?
