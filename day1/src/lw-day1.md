@@ -53,20 +53,40 @@ TL;DR: Learn by doing!
 
 # The Technical Answer
 
+##
+
+\Huge\textbf{The Technical Answer}
+\normalsize
+
+*What is Linux?*
+
 ## The Kernel
 
 Any answer given short of a lecture will be riddled with asterisks.
 
-- Manages Memory
-- Schedules threads, processes
-- Filesystem
+Your computer can run multiple programs at once\* because of the Kernel. It is the core of any Operating System. It manages and shares system resources between programs by:
 
+- Managing Memory
+  - Programs are greedy and assume they have ALL of memory.
+- Scheduling processes
+  - Only so much CPU, many things that need to run.
+- Managing Filesystem I/O
+  - Hardware: Kernel is your buddy. Tells you what to do.
+  - Software: Kernel is your buddy. Tell it what you want to write.
+  - User: Kernel is your buddy. Symlinks, rearrange files, etc.
 
 ## Linux Distros
 
 Package Managers
 
 # The Philosophical Answer
+
+##
+
+\Huge\textbf{The Philosophical Answer}
+\normalsize
+
+*What is Linux?*
 
 ## Free, as in Libre
 
@@ -106,6 +126,13 @@ MacOS is locked to Apple Hardware.
 - Security
 
 # The Practical Answer
+
+##
+
+\Huge\textbf{The Practical Answer}
+\normalsize
+
+*What is Linux?*
 
 ## Not Windows.
 
