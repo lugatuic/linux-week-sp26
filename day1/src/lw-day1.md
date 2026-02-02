@@ -27,21 +27,29 @@ It is 2026, not 2006. Use the internet!
 
 ## What is Linux Week?
 
-Structured environment to learn & practice!
+::: columns
+:::: column
 
-Solve challenges from the command line with your peers and with help from the person who made the challenges themselves!
+**Demystifying the Command Line**
 
-**Day Two: Demystifying the Command Line**
+Basic command line usage & filesystem traversal via scavenger hunt!
+\newline
 
-Filesystem traversal, basic commands in terminal scavenger hunt!
-
-**Day Three: Intro to Scripting**
+**Intro to Scripting**
 
 How to solve problems, use novel CLI tools, all to solve challenges!
+\newline
 
-**Day Four: Using the Package Manager**
+**Using the Package Manager**
 
 How to use package manager & find right tool to solve a problem. Collective problem solving!
+::::
+:::: column
+![](assets/LinuxWeekPosterSP26.png)
+::::
+:::
+
+TL;DR: Learn by doing!
 
 # The Technical Answer
 
