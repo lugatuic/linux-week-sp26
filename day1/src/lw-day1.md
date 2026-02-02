@@ -7,9 +7,7 @@ date: February 2nd, 2026
 
 # Introduction
 
-## What is Linux Week?
-
-"Learning Linux"
+## On "Learning Linux"
 
 You can use the GUI. You can download things from the internet. You can effectively use Linux like Windows.
 
@@ -19,15 +17,31 @@ HOWEVER, "Learning Linux" makes your life easier.
 - Updating & installing programs is slow and tedious => sudo apt install x
 - "Oh god why is my machine broken" => Seeing the exact error message
 
-The best way to learn? Practice!
+The best way to learn? Ask questions & practice skills to solve everyday problems.
 
-- Traverse Filesystem: Scavenger Hunt!
-- Get familiar with CLI tools \& Scripting: Solve challenges!
-- Solve problems like a power user: Do it together, in real time!
+- How to find files from terminal? Practice it!
+- Something broke. How do I fix it? Investigate it!
+- I want to change something on my system. Research it!
 
-## "Do I need to install Linux?"
+It is 2026, not 2006. Use the internet!
 
-nuh uh
+## What is Linux Week?
+
+Structured environment to learn & practice!
+
+Solve challenges from the command line with your peers and with help from the person who made the challenges themselves!
+
+**Day Two: Demystifying the Command Line**
+
+Filesystem traversal, basic commands in terminal scavenger hunt!
+
+**Day Three: Intro to Scripting**
+
+How to solve problems, use novel CLI tools, all to solve challenges!
+
+**Day Four: Using the Package Manager**
+
+How to use package manager & find right tool to solve a problem. Collective problem solving!
 
 # The Technical Answer
 
