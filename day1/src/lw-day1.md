@@ -196,6 +196,8 @@ You probably already use some Open Source projects:
 
 ## Not Windows.
 
+::: columns
+:::: column
 Things will take time to get used to.
 
 - Command Line
@@ -206,6 +208,12 @@ However, a lot of things will be better!
 
 - Super efficient
 - FOSS Ecosystem
+- Infinitely more customizability
+::::
+:::: column
+![](assets/fastfetch.png)
+::::
+:::
 
 ## Where to start?
 
