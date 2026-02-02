@@ -148,10 +148,42 @@ MacOS is locked to Apple Hardware.
 
 ## Open Source
 
-- Ricing
-- Code editor
-- Community Support
-- Security
+Linux promotes an Open Source ecosystem!
+
+\vspace{0.2in}
+
+::: columns
+:::: column
+Open Source:
+
+- Free, as in Free!
+  - Share Open Source software all you want!
+- Secure
+  - Volunteers find bugs, vulnerabilities, review security
+- Developers are Users
+  - Focus is on making something actually usable, not extorting users for profit
+::::
+:::: column
+You probably already use some Open Source projects:
+
+- OBS
+- Blender
+- Programming Languages
+- Git 
+- Godot
+
+\vspace{0.1in}
+::: columns
+:::: column
+![](assets/godotlogo.png)
+::::
+:::: column
+![](assets/gitlogo.png)
+::::
+:::
+
+::::
+:::
 
 # The Practical Answer
 
