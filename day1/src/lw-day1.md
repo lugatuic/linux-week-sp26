@@ -77,7 +77,25 @@ Your computer can run multiple programs at once\* because of the Kernel. It is t
 
 ## Linux Distros
 
-Package Managers
+::: columns
+:::: column
+\Large\textbf{Package Managers}\normalsize
+
+- Release Cycle
+  - Debian: Super Stable
+    - Months of testing & QA, smooth as butter. Stability > Novelty
+  - Arch: Bleeding Edge
+    - No releases, just package most recent version of software. Novelty > Stability.
+- Package Repositories
+  - Availability
+  - Arch AUR
+- NixOS... 
+
+::::
+:::: column
+.
+::::
+:::
 
 # The Philosophical Answer
 
