@@ -79,21 +79,31 @@ Your computer can run multiple programs at once\* because of the Kernel. It is t
 
 ::: columns
 :::: column
-\Large\textbf{Package Managers}\normalsize
+\Large\textbf{Package Managers}
+\normalsize
 
 - Release Cycle
   - Debian: Super Stable
-    - Months of testing & QA, smooth as butter. Stability > Novelty
+    - Months of testing \& QA, smooth as butter. Stability > Novelty
   - Arch: Bleeding Edge
     - No releases, just package most recent version of software. Novelty > Stability.
 - Package Repositories
   - Availability
   - Arch AUR
-- NixOS... 
+- NixOS 
 
 ::::
 :::: column
-.
+\Large\textbf{Ancestry}
+\normalsize
+
+Most popular OSes are typically based off of:
+
+- **Debian**
+- **Ubuntu**
+- **Arch**
+
+There are [*quite a few.*](https://commons.wikimedia.org/wiki/File:Linux_Distribution_Timeline.svg#/media/File:Linux_Distribution_Timeline.svg)
 ::::
 :::
 
